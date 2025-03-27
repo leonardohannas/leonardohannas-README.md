@@ -36,4 +36,5 @@ I am also passionate about languages! I speak **Portuguese, English, and French 
 ### 🔥 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leonardohannas&show_icons=true&theme=dark" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=leonardohannas&theme=dark" />
 </p>
