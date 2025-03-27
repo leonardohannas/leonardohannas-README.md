@@ -8,11 +8,11 @@ My journey has equipped me with a strong foundation in data science, business an
 
 I am currently working as a **Project Manager at OVHcloud**, where I focus on **IT sustainability and strategic innovation**.
 
-I am also passionate about languages! I speak **Portuguese, English, and French fluently**, and I am continuously improving my **Italian and Spanish**.
+I am also passionate about languages! I speak **Portuguese, English, and French fluently**, and I have a **basic level in Italian and Spanish**.
 
 - 📊 Passionate about **Data Science, Business Analysis, and Digital Strategy**.
 - 🌍 International background: studied in **France (Télécom Paris – Institut Polytechnique de Paris, Paris Dauphine) and Brazil (USP)**.
-- 🗣️ Language enthusiast: **Portuguese (native), English (C1), French (C1), Italian (improving), and Spanish (improving)**.
+- 🗣️ Language enthusiast: **Portuguese (native), English (C1), French (C1), Italian (basic), and Spanish (basic)**.
 - 📩 How to reach me: **hannasleonardo@gmail.com**  
 - 💼 LinkedIn: **[linkedin.com/in/leonardohannas/](https://www.linkedin.com/in/leonardohannas/)**  
 - 🖥️ GitHub: **[github.com/leonardohannas](https://github.com/leonardohannas)**  
